@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "my-app",
+    "slug": "my-app",
+    "version": "1.0.0",
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": [
+            "node_modules/@expo-google-fonts/inconsolata/Inconsolata-ExtraLight.ttf",
+            "node_modules/@expo-google-fonts/inconsolata/Inconsolata-Light.ttf",
+            "node_modules/@expo-google-fonts/inconsolata/Inconsolata-Regular.ttf",
+            "node_modules/@expo-google-fonts/inconsolata/Inconsolata-Medium.ttf",
+            "node_modules/@expo-google-fonts/inconsolata/Inconsolata-SemiBold.ttf",
+            "node_modules/@expo-google-fonts/inconsolata/Inconsolata-Bold.ttf",
+            "node_modules/@expo-google-fonts/inconsolata/Inconsolata-ExtraBold.ttf",
+            "node_modules/@expo-google-fonts/inconsolata/Inconsolata-Black.ttf"
+          ]
+        }
+      ]
+    ],
+    "android": {
+      "package": "com.anonymous.myapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.myapp"
+    }
+  }
+}

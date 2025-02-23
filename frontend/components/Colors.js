@@ -1,0 +1,11 @@
+export const purple = "#8256F8"
+export const background = "#F9F9F8"
+export const black = "#000000"
+export const darkGray = "#A3A3A3"
+export const lightGray = "#A7A7A7"
+export const white = "#FFFFFF"
+export const primaryDark = "#0D0B0F"
+export const secondaryDark = "#545454"
+
+export const primary = "#8256F8"
+export const secondary = "#F9F9F8"
