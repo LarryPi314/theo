@@ -9,7 +9,9 @@ We built theo at TreeHacks 2025, where it won the **Elasticsearch track** 🏆 f
 For more details, visit our project page:
 http://devpost.com/software/theo-k1enau
 
-[![theo-video](https://www.youtube.com/watch?v=qbKc0O2uQv8)](https://www.youtube.com/watch?v=qbKc0O2uQv8)
+<p align="center">
+  <img src="./statics/homepage.png" alt="theo app banner" width="200">
+</p>
 
 ---
 
